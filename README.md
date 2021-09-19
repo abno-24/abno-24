@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abno-24&label=Profile%20views&color=0e75b6&style=flat" alt="abno-24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abno-24" alt="abno-24" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abno_24" target="blank"><img src="https://img.shields.io/twitter/follow/abno_24?logo=twitter&style=for-the-badge" alt="abno_24" /></a> </p>
-
-- 🔭 I’m currently working on [Huddle Landing Page](https://github.com/abno-24/Huddle-Landing-Page-)
 
 - 🌱 I’m currently learning **React**
 
@@ -35,8 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abno-24&show_icons=true&locale=en&layout=compact" alt="abno-24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abno-24&show_icons=true&locale=en" alt="abno-24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abno-24&" alt="abno-24" /></p>
 
 
 <!---
