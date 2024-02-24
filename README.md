@@ -2,6 +2,7 @@
 <h3 align="center">An Outlier Molecule within a Cluster 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abno-24&label=Profile%20views&color=0e75b6&style=flat" alt="abno-24" /> </p>
+<img align="right" alt="gif" width="470" src="https://github.com/abno-24/abno-24/assets/68058874/e1476774-85cc-404c-85be-52a34ec660f1">
 
 - 👨🏽‍💻 I'm leveling up from Front-end Developer to **Full Stack Developer ⚡**
 
@@ -76,9 +77,9 @@
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
         </a>    
     </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abno-24&show_icons=true&locale=en" alt="abno-24" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abno-24&show_icons=true&locale=en&layout=compact" alt="abno-24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abno-24&show_icons=true&locale=en" alt="abno-24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abno-24&" alt="abno-24" /></p>
 
