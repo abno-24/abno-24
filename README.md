@@ -2,7 +2,7 @@
 <h3 align="center">An Outlier Molecule within a Cluster 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abno-24&label=Profile%20views&color=0e75b6&style=flat" alt="abno-24" /> </p>
-<img align="right" alt="gif" width="470" src="https://github.com/abno-24/abno-24/assets/68058874/e1476774-85cc-404c-85be-52a34ec660f1">
+<img align="right" alt="gif" width="400" src="https://github.com/abno-24/abno-24/assets/68058874/e1476774-85cc-404c-85be-52a34ec660f1">
 
 - 👨🏽‍💻 I'm leveling up from Front-end Developer to **Full Stack Developer ⚡**
 
