@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abno-24&label=Profile%20views&color=0e75b6&style=flat" alt="abno-24" /> </p>
 <img align="right" alt="gif" width="400" src="https://github.com/abno-24/abno-24/blob/main/coder.gif" />
 
-- 👨🏽‍💻 I'm leveling up as a **Full Stack Developer ⚡**
+- 👨🏽‍💻 I'm a **Full Stack Developer ⚡**
 
 - 🥷🏽 I’m on mission to become **Blockchain Application Developer**
 
